@@ -1,0 +1,6 @@
+D:\zadania\курсы\курсы\bin\Debug\курсы.exe.config
+D:\zadania\курсы\курсы\obj\Debug\курсы.csprojResolveAssemblyReference.cache
+D:\zadania\курсы\курсы\bin\Debug\курсы.exe
+D:\zadania\курсы\курсы\bin\Debug\курсы.pdb
+D:\zadania\курсы\курсы\obj\Debug\курсы.exe
+D:\zadania\курсы\курсы\obj\Debug\курсы.pdb
